@@ -1,0 +1,15 @@
+{
+  "name": "nickname-generator-nodejs",
+  "version": "1.0.7",
+  "description": "a simple package to create username",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error:no test specified\" && exit 1"
+  },
+  "keywords": [
+    "username",
+    "creator"
+  ],
+  "author": "Nazar32",
+  "license": "MIT"
+}
